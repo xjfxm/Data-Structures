@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data Structure\\Data-Structures\\\u6D4B\u8BD5\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D9D6E1-F8C9-42C6-9FA1-FF2403E5AC91}|Project2.vcxproj|D:\\Data Structure\\Data-Structures\\\u6D4B\u8BD5\\Project2\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7D9D6E1-F8C9-42C6-9FA1-FF2403E5AC91}|Project2.vcxproj|solutionrelative:\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.c",
+              "DocumentMoniker": "D:\\Data Structure\\Data-Structures\\\u6D4B\u8BD5\\Project2\\\u6E90.c",
+              "RelativeDocumentMoniker": "\u6E90.c",
+              "ToolTip": "D:\\Data Structure\\Data-Structures\\\u6D4B\u8BD5\\Project2\\\u6E90.c",
+              "RelativeToolTip": "\u6E90.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-02T10:26:19.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
